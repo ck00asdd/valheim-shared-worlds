@@ -1,0 +1,44 @@
+{
+  "name": "asdgfhg",
+  "seed": "9WypqMwgCm",
+  "gameVersion": "1.0.14",
+  "worldGenVersion": 2,
+  "savedAt": "2026-09-17T20:48:30",
+  "uploader": "RRRUAAAAA",
+  "tool": "ValheimSaveShare 1.0.2",
+  "format": "zip",
+  "files": [
+    {
+      "path": "_main.1.fwl2",
+      "size": 112
+    },
+    {
+      "path": "_main.1.db2",
+      "size": 146273
+    },
+    {
+      "path": "_main.1.chunks",
+      "size": 54
+    },
+    {
+      "path": "_main.1.ok",
+      "size": 4
+    },
+    {
+      "path": "1e_1e__1_1.chunk",
+      "size": 85091
+    },
+    {
+      "path": "1e_20__1_1.chunk",
+      "size": 88766
+    },
+    {
+      "path": "20_1e__1_1.chunk",
+      "size": 53009
+    },
+    {
+      "path": "20_20__1_1.chunk",
+      "size": 59895
+    }
+  ]
+}
